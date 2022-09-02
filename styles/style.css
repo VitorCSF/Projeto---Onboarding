@@ -14,7 +14,7 @@ body {
     justify-content: center;
     text-align: center;
     box-sizing: border-box;
-    border-color: black;
+    border-color: #FFFFFF;
     border-width: 10px;
     border-style: solid;
     border-radius: 20px;
@@ -24,4 +24,16 @@ body {
     max-width: 250px;
     width: 100%;
 	margin: 2px auto;
+}
+
+.texto-principal h1 {
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.texto-principal p {
+    font-size:13px;
+    text-align: center;
+    padding-bottom: 40px;
 }
