@@ -1,0 +1,27 @@
+body {
+    background-color: aqua;
+    font-family: 'Poppins', sans-serif;
+}
+
+.borda {
+    padding: 15px;
+    margin: auto auto;
+    margin-top: 160px;
+    display: flexbox;
+    max-width: 250px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    box-sizing: border-box;
+    border-color: black;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+.imagem-principal {
+    max-width: 250px;
+    width: 100%;
+	margin: 2px auto;
+}
