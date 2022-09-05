@@ -1,10 +1,16 @@
+/* Definindo a estrutura básica das páginas*/
+
 body, html {
     height: 100%;
 }
 
+/* Defininfo a fonte padrão das páginas */
+
 body {
     font-family: 'Poppins', sans-serif;
 }
+
+/* Estabelecendo a order dos elementos e seus estilos */
 
 .caixa {
     height: 100%;
@@ -67,6 +73,8 @@ body {
     padding-bottom: 40px;
 }
 
+/* Estilo exclusivo da última página */
+
 .botao-final {
     width: 75%;
     font-size: 13px;
@@ -88,6 +96,8 @@ body {
     padding-top: 32px;
     padding-bottom: 40px;
 }
+
+/* Responsividade Mobile da aplicação */
 
 @media screen and (max-width : 480px) {
    .caixa {
