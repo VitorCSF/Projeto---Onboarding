@@ -68,3 +68,24 @@ body {
     text-align: center;
     padding-bottom: 40px;
 }
+
+.botao-final {
+    font-size:13px;
+    background-color: #000000;
+    text-decoration: none;
+    color: #FFFFFF;
+    text-align: center;
+    display: block;
+    box-sizing: border-box;
+    border-color: #FFFFFF;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 7px;
+    margin: auto auto;
+    padding: 12px 12px;
+}
+
+.espacamento-inferior {
+    padding-top: 32px;
+    padding-bottom: 40px;
+}
